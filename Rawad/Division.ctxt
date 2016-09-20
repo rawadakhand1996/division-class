@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Division()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Division\r\n
+comment1.params=n1\ n2
+comment1.target=void\ getNumber(double,\ double)
+comment1.text=\r\n\ \ \ \ \ Description\:\ Changes\ the\ numerator\ and\ the\ denominator\r\n\ \ \ \ \ Input\:\ User\ inserts\ values\ for\ n1\ and\ n2\r\n\ \ \ \ \ Output\:\ Replace\ the\ numerator\ n1\ and\ denominator\ n2\ and\ divides\ n1\ with\ n2\r\n\ \ \ \ \ Example\:\ n1\=\ 15\ n2\=\ 5\r\n\ @return\ is\ 3\r\n
+comment2.params=
+comment2.target=void\ print()
+numComments=3
